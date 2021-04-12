@@ -1,3 +1,4 @@
+//<<<<<<< HEAD
 #include <iostream>
 
 std::string echo(int length, char** chars) {
@@ -11,3 +12,5 @@ std::string echo(int length, char** chars) {
     ret += "\n";
     return ret;
 }
+
+//>>>>>>> master
